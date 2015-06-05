@@ -7,3 +7,6 @@
 [submodule "perl/vcfEffOneLine"]
 	path = perl/vcfEffOneLine
 	url = https://github.com/jos4uke/vcfEffOneLine.git
+[submodule "python/dreamFileMaker"]
+	path = python/dreamFileMaker
+	url = https://github.com/jos4uke/dreamFileMaker.git
