@@ -1,0 +1,9 @@
+[submodule "bash/mutdetect"]
+	path = bash/mutdetect
+	url = https://github.com/jos4uke/mutdetect.git
+[submodule "bash/bash-common"]
+	path = bash/bash-common
+	url = https://github.com/jos4uke/bash-common.git
+[submodule "perl/vcfEffOneLine"]
+	path = perl/vcfEffOneLine
+	url = https://github.com/jos4uke/vcfEffOneLine.git
