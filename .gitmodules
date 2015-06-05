@@ -10,3 +10,6 @@
 [submodule "python/dreamFileMaker"]
 	path = python/dreamFileMaker
 	url = https://github.com/jos4uke/dreamFileMaker.git
+[submodule "python/fileMatch"]
+	path = python/fileMatch
+	url = https://github.com/jos4uke/fileMatch.git
